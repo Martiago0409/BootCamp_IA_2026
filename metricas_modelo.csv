@@ -1,0 +1,5 @@
+modelo,accuracy,acierto_etiqueta_1_vulnerabilidad_baja,acierto_etiqueta_2_vulnerabilidad_alta,correctos_vulnerabilidad_baja,bajos_clasificados_como_altos,altos_clasificados_como_bajos,correctos_vulnerabilidad_alta
+Random Forest,0.9896354538956398,0.9933135215453195,0.9862258953168044,1337,9,20,1432
+Árbol de Decisión,0.9746247319513939,0.9970282317979198,0.9538567493112947,1342,4,67,1385
+SVC,0.9721229449606862,0.9858841010401189,0.959366391184573,1327,19,59,1393
+Regresión Logística,0.9706933523945676,0.9821693907875185,0.9600550964187328,1322,24,58,1394
